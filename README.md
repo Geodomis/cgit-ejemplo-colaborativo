@@ -1,2 +1,5 @@
-CAPACITACION DE GIT
+# CAPACITACION DE GIT
 
+## Aqui van los nombres de los asistentes:
+
+- George Dominguez
