@@ -2,4 +2,4 @@
 
 ## Aqui van los nombres de los asistentes:
 
-- George Dominguez
+- George Dominguez Silva
